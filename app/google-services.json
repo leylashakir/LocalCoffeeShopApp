@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256561627027",
+    "project_id": "localcoffeeshopapp",
+    "storage_bucket": "localcoffeeshopapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256561627027:android:365baac2ae020dae957266",
+        "android_client_info": {
+          "package_name": "leylashakirzyanova.cs360.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256561627027-emt9s9c79ehl02dq27ht8dm6k41bssl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmQNaaXXEOYE2gyU6EIDiopodbiIKYIeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256561627027-emt9s9c79ehl02dq27ht8dm6k41bssl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

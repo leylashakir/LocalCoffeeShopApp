@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Local Coffee Shop</string>
+    <string name="Add">Add</string>
+    <string name="Login">Sign in</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="your_cart">YOUR CART</string>
+    <string name="place_order">Place Order</string>
+    <string name="edit_order">Edit Order</string>
+    <string name="items_added">\"Items added to cart.\"</string>
+    <string name="manage_user_account">Log In Or Create Account to Start</string>
+    <string name="local_coffee_shop">LOCAL COFFEE SHOP</string>
+    <string name="map">Map</string>
+    <string name="menu">Menu</string>
+    <string name="menu_database">Menu Database</string>
+    <string name="enter_password">Enter password...</string>
+    <string name="enter_email_address">Enter email address...</string>
+    <string name="sign_up">Don`t have an account? Sign up!</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="sign_in1">Sign In</string>
+    <string name="confirm">Confirm</string>
+    <string name="start_order">Start Order!</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_price">Item Price</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="view_cart">View Cart</string>
+    <string name="add_counter_button">Add To Cart</string>
+    <string name="subtract_counter_button">Remove From Cart</string>
+    <string name="textview">Item Count</string>
+    <string name="total_item_price">Total Item Price</string>
+    <string name="item_total">Item Total</string>
+    <string name="total">Total</string>
+    <string name="count">Count</string>
+    <string name="price">Price</string>
+    <string name="order_total_string">Order Total:</string>
+    <string name="thank_you_your_order_has_been_placed">THANK YOU! YOUR ORDER HAS BEEN PLACED.</string>
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="item_name_array">
+        <item>Morning Sandwich</item>
+        <item>Oatmeal</item>
+        <item>Bagel</item>
+        <item>Hot Chocolate</item>
+        <item>Bagel With Cream Cheese</item>
+        <item>Sausage Egg and Cheese</item>
+        <item>Fruit Platter</item>
+        <item>Yogurt</item>
+        <item>Morning Coffee</item>
+        <item>Latte</item>
+        <item>Water</item>
+        <item>Tea</item>
+    </string-array>
+
+    <integer-array name="price_array">
+        <item>5</item>
+        <item>3</item>
+        <item>2</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>4</item>
+        <item>4</item>
+        <item>2</item>
+        <item>3</item>
+        <item>1</item>
+        <item>2</item>
+    </integer-array>
+
+    <integer-array name="counter_array">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+    <integer-array name="item_total_array">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </integer-array>
+
+</resources>
